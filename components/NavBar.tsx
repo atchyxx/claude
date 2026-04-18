@@ -8,6 +8,7 @@ const navItems = [
   { href: "/submissions", label: "提出チェック" },
   { href: "/students", label: "生徒管理" },
   { href: "/assignments", label: "課題管理" },
+  { href: "/github-guide", label: "GitHub説明" },
 ];
 
 export default function NavBar() {
